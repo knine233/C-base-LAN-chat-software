@@ -1,0 +1,16 @@
+Message: init bridgeGetDeviceCallback
+Source: http://www.mymind365.com/assets/index.6b9c2d12.js
+Line: 23
+-----------------------
+Message: TypeError: n.flatMap is not a function
+Source: http://www.mymind365.com/assets/vue.89752056.js
+Line: 4
+-----------------------
+Message: GetDirectoryTree
+Source: http://www.mymind365.com/assets/index.6b9c2d12.js
+Line: 24
+-----------------------
+Message: GetOpenFolder
+Source: http://www.mymind365.com/assets/index.6b9c2d12.js
+Line: 24
+-----------------------

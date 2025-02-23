@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/login.jpg</file>
+        <file>images/administor.png</file>
+        <file>images/app_theme.png</file>
+        <file>images/bar.jpg</file>
+        <file>images/client_ico.png</file>
+        <file>images/file_ico.png</file>
+        <file>images/hailang_ico.jpg</file>
+        <file>images/icon.jpg</file>
+        <file>images/ip_ico.png</file>
+        <file>images/log_out.png</file>
+        <file>images/message_ico.png</file>
+        <file>images/save_ico.png</file>
+        <file>images/search.jpg</file>
+        <file>images/send_ico.png</file>
+        <file>images/title.jpg</file>
+        <file>images/tool.jpg</file>
+        <file>images/wei.jpg</file>
+    </qresource>
+</RCC>

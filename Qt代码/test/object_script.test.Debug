@@ -1,0 +1,12 @@
+debug/client.o
+debug/fileprodialog.o
+debug/logindialog.o
+debug/main.o
+debug/mainwindow.o
+debug/server.o
+debug/qrc_src.o
+debug/moc_client.o
+debug/moc_fileprodialog.o
+debug/moc_logindialog.o
+debug/moc_mainwindow.o
+debug/moc_server.o

@@ -1,0 +1,12 @@
+release/client.o
+release/fileprodialog.o
+release/logindialog.o
+release/main.o
+release/mainwindow.o
+release/server.o
+release/qrc_src.o
+release/moc_client.o
+release/moc_fileprodialog.o
+release/moc_logindialog.o
+release/moc_mainwindow.o
+release/moc_server.o
